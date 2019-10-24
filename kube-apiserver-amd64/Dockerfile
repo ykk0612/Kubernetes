@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.14.6 
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver:v1.14.6 
 MAINTAINER yuankk
